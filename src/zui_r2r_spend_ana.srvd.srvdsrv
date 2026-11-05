@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition - Spend Analytics'
+define service ZUI_R2R_SPEND_ANA {
+  expose ZC_R2R_SPEND_ANA;
+}
