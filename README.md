@@ -20,8 +20,6 @@ This solution strictly adheres to SAP's Clean Core principles by implementing a 
 ### 1. Analytic Elements UI
 <img width="1917" height="898" alt="image" src="https://github.com/user-attachments/assets/8e6342b0-0e4d-4c9f-8045-d0629e0e54fe" />
 
-<img width="1919" height="561" alt="image" src="https://github.com/user-attachments/assets/c873325d-2a10-49a4-8dfa-c333e0a2ed7e" />
-
 ### 2. Business Logic Implementation (Eclipse ADT)
 <img width="1916" height="1050" alt="image" src="https://github.com/user-attachments/assets/2bc221d4-29ca-4c45-aee3-f4157045891e" />
 
